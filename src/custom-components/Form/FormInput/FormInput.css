@@ -1,0 +1,21 @@
+.form_container {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  width: 100%;
+  align-items: center;
+  font-size: 1.4rem;
+}
+
+.input {
+  box-sizing: border-box;
+  padding: 0.3rem;
+  font-size: 1.4rem;
+  margin: 1rem 0 1rem 1rem;
+}
+
+.error {
+  color: red;
+  font-size: 1rem;
+  margin-left: 40%;
+}

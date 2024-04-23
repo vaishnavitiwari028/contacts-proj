@@ -1,0 +1,10 @@
+.form_header {
+  box-sizing: border-box;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: dimgrey;
+  border-bottom: 1px solid grey;
+  padding: 0.6rem 0;
+  margin-bottom: 1rem;
+}

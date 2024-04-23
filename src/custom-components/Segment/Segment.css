@@ -1,0 +1,11 @@
+.segment_container {
+  box-sizing: border-box;
+  border: 2px solid grey;
+  width: 100%;
+  margin: 1rem;
+  padding: 5px;
+}
+.segment {
+  box-shadow: 3px 3px 3px grey, -3px -3px 3px grey;
+  padding: 10px;
+}
